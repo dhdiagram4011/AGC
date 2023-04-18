@@ -1,0 +1,9 @@
+autoware_data
+catkin_ws/build
+catkin_ws/devel
+
+docker
+docs
+
+autoware_launch.zip
+catkin_ws.zip
